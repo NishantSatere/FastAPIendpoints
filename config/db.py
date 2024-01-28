@@ -1,6 +1,6 @@
 import pymongo
 from pymongo import MongoClient
-MONGO_URI =  "mongodb+srv://nishant-satere:nishant-satere-2810@firstproject.wami2av.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI =  ""
  # Use your preferred method to retrieve the URI
 
 try:
